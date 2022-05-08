@@ -1,0 +1,21 @@
+#clear{
+    width: 150px;
+}
+.formsttyle{
+  width: 151px;
+  height: 262px;
+  margin: auto;
+  padding: 1;
+  background-color: rgb(16, 49, 38);
+  /* border: 2px solid black; */
+   border-radius: 10px;
+  
+} 
+input{
+  width: 45;
+  background-color: coral;
+    
+} 
+#ansStyle{
+  width: 150;
+}
